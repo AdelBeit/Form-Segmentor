@@ -23,3 +23,23 @@ For our task we want to split the image into separate regions of label/input pai
 
 
 ![image segmentation algorithms](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/61252d1629671c610b13f6f5_image-segmentation.png)
+
+
+***
+
+Once we have the separate images with labels and inputs, we will run them through openAI's CLIP model for classification.
+
+CLIP (Contrastive Language-Image Pre-training) is a neural network (NN) trained on a variety of (image,text) pairs. 
+
+It's been trained on 400 million image and text description pairs from the internet. 
+
+[CLIP colab link](https://colab.research.google.com/github/AdelBeit/Form-Segmentor/blob/dev/notebooks/Interacting_with_CLIP.ipynb)
+[job application form bank for training](https://www.jotform.com/form-templates/category/employment)
+
+
+***
+
+# Resources
+
+Machine learning course on [youtube](https://www.youtube.com/watch?v=8SF_h3xF3cE&t=2s)
+I need to learn more about machine learning and computer vision to decide which model architecture and algorithms are useful for this project.
